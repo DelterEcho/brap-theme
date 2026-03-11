@@ -1,0 +1,82 @@
+{
+  "name": "System24 Tokyo Night AMOLED",
+  "description": "AMOLED Tokyo Night style based on system24 theme",
+  "authors": [
+    {
+      "name": "refact0r (original) / converted",
+      "id": "0"
+    }
+  ],
+
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#c0caf5"],
+    "HEADER_SECONDARY": ["#a9b1d6"],
+
+    "TEXT_NORMAL": ["#a9b1d6"],
+    "TEXT_MUTED": ["#414868"],
+
+    "INTERACTIVE_NORMAL": ["#a9b1d6"],
+    "INTERACTIVE_HOVER": ["#c0caf5"],
+    "INTERACTIVE_ACTIVE": ["#bb9af7"],
+    "INTERACTIVE_MUTED": ["#414868"],
+
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "BACKGROUND_ACCENT": ["#0a0a0a"],
+    "BACKGROUND_FLOATING": ["#0a0a0a"],
+
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#0a0a0a"],
+    "BACKGROUND_MODIFIER_HOVER": ["#111111"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#151515"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#111111"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0a0a0a"],
+
+    "SCROLLBAR_THIN_THUMB": ["#414868"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#414868"],
+    "CHANNELS_DEFAULT": ["#414868"],
+
+    "TEXT_LINK": ["#bb9af7"],
+    "CHANNEL_ICON": ["#a9b1d6"],
+
+    "CHAT_BACKGROUND": ["#000000"],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0a0a0a"],
+
+    "CARD_PRIMARY_BG": ["#000000"],
+    "CARD_SECONDARY_BG": ["#0a0a0a"],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#111111"]
+  },
+
+  "rawColors": {
+    "PRIMARY_500": "#c0caf5",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_800": "#000000",
+
+    "BRAND_500": "#bb9af7",
+    "BRAND_560": "#bb9af7",
+
+    "GREEN_600": "#9ece6a",
+    "RED_400": "#f7768e",
+    "WHITE_500": "#c0caf5",
+
+    "YELLOW_300": "#e0af68"
+  },
+
+  "background": {
+    "blur": 0,
+    "url": "",
+    "alpha": 1
+  },
+
+  "spec": 2
+}
